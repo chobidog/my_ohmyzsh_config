@@ -1,8 +1,9 @@
 # My Custom OHMYZSH Themes
-このリポジトリには、私が作成したOh My Zsh用のカスタムテーマが含まれています。Oh My ZshはZshの設定を管理するためのフレームワークです。詳細な情報はこちらで確認できます：[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
+このリポジトリには、私が作成したOh My Zsh用のカスタムテーマが含まれています。Oh My ZshはZshの設定を管理するためのフレームワークです。詳細な情報はこちらで確認できます
+This repository that i created for own ohmyzsh customed Theme. The Oh My Zsh is a framework to manage a zsh configuration.if you wanna know more deeper, follow this page.：[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
 
 ## インストール
-OHMYZSHをインストールするには、以下の指示に従ってください：[Install Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
+TO install ohmyzsh please follow the instruction bellow：[Install Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
 
 このテーマを使用するには：
 
@@ -12,13 +13,12 @@ OHMYZSHをインストールするには、以下の指示に従ってくださ�
 
 
 2. Move the theme file to the Oh My Zsh theme directory:
-    ```zsh
+
     mv [theme_file_name].zsh-theme ~/.ohmyzsh/themes/
 
 
 3. Update your `.zshrc` file to select the new theme.
 
-    ```zsh
     ZSH_THEME="my_custom_theme_zsh"
 
 
@@ -28,6 +28,8 @@ The prompt format is:
     ```zsh
     [time:timezone] Username@host ~/CurrenrtDir  > {branchname}
     $
+
+    
 
 
 
