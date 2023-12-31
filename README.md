@@ -1,7 +1,7 @@
 # My Custom OHMYZSH Themes
 
-This repository that i created for own ohmyzsh customed Theme. The Oh My Zsh is a framework to manage a zsh configuration.if you wanna know more deeper, follow this page.：[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
-## why I create own Themes
+This repository that i created for own ohmyzsh customed Theme. The Oh My Zsh is a framework to manage a zsh configuration.if you wanna know more deeper, follow this page.：[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh).
+## Why I create own Themes
 
 Although there are many pre-existing themes available online, none of them really matched my preferences. However, by creating my own theme, I was able to freely choose the text colors and prompts to suit my tastes. That's why I made it myself, and it was relatively easy.
 
