@@ -1,15 +1,20 @@
 # My Custom OHMYZSH Themes
-このリポジトリには、私が作成したOh My Zsh用のカスタムテーマが含まれています。Oh My ZshはZshの設定を管理するためのフレームワークです。詳細な情報はこちらで確認できます
-This repository that i created for own ohmyzsh customed Theme. The Oh My Zsh is a framework to manage a zsh configuration.if you wanna know more deeper, follow this page.：[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
 
-## インストール
+This repository that i created for own ohmyzsh customed Theme. The Oh My Zsh is a framework to manage a zsh configuration.if you wanna know more deeper, follow this page.：[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
+## why I create own Themes
+
+Although there are many pre-existing themes available online, none of them really matched my preferences. However, by creating my own theme, I was able to freely choose the text colors and prompts to suit my tastes. That's why I made it myself, and it was relatively easy.
+
+
+
+## Install
 TO install ohmyzsh please follow the instruction bellow：[Install Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)。
 
-このテーマを使用するには：
 
-1. このリポジトリをクローンします：
+
+1. cloning this repo
    ```zsh
-   git clone [リポジトリのURL]
+   git clone [repository's URL]
 
 
 2. Move the theme file to the Oh My Zsh theme directory:
@@ -22,7 +27,7 @@ TO install ohmyzsh please follow the instruction bellow：[Install Oh My Zsh](ht
     ZSH_THEME="my_custom_theme_zsh"
 
 
-## General Overview (概要)
+## General Overview
 The prompt format is:
 
     ```zsh
@@ -34,6 +39,7 @@ The prompt format is:
 
 
 ## Plugins
+
     The plugins I use include:
 
     ```zsh
