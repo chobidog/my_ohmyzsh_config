@@ -18,12 +18,12 @@ TO install ohmyzsh please follow the instruction bellow：[Install Oh My Zsh](ht
 
 
 2. Move the theme file to the Oh My Zsh theme directory:
-
+   ```zsh
     mv [theme_file_name].zsh-theme ~/.ohmyzsh/themes/
 
 
 3. Update your `.zshrc` file to select the new theme.
-
+   ```zsh
     ZSH_THEME="my_custom_theme_zsh"
 
 
