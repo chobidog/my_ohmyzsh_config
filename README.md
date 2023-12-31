@@ -13,7 +13,7 @@ TO install ohmyzsh please follow the instruction bellow：[Install Oh My Zsh](ht
 
 
 1. cloning this repo
-   
+   ```zsh
    git clone [repository's URL]
 
 
