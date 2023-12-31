@@ -1,12 +1,12 @@
 # 色とスタイルの定義
 local user_color="%F{214}" # ゴールド
-local host_color="%F{33}" # ドジャーブルー
-local dir_color="%F{76}" # 明るい緑
+local host_color="%F{33}" # ブルー
+local dir_color="%F{76}" # グリーン
 local git_branch_color="%F{135}" # ライトパープル
 local time_color="%F{147}" # ライトピンク
 local prompt_symbol_color="%F{81}" # 明るいブルー
 
-# モダンなプロンプトシンボル
+# プロンプトシンボル
 local prompt_symbol="$" # またはお好みのシンボルを選択
 
 # プロンプトの設定
@@ -16,7 +16,7 @@ PROMPT+='%{$git_branch_color%}${vcs_info_msg_0_}%f'
 PROMPT+=$'\n%{$prompt_symbol_color%}'"$prompt_symbol "
 
 autoload -Uz vcs_info
-# アイコンを絵文字に変更
+# アイコンを絵文字に変更()
 zstyle ':vcs_info:git:*' formats ' %F{135}> {%b}%f'
 zstyle ':vcs_info:*' enable git
 
