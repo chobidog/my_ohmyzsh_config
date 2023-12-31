@@ -13,7 +13,7 @@ TO install ohmyzsh please follow the instruction bellow：[Install Oh My Zsh](ht
 
 
 1. cloning this repo
-   ```zsh
+   
    git clone [repository's URL]
 
 
@@ -30,7 +30,7 @@ TO install ohmyzsh please follow the instruction bellow：[Install Oh My Zsh](ht
 ## General Overview
 The prompt format is:
 
-    ```zsh
+    
     [time:timezone] Username@host ~/CurrenrtDir  > {branchname}
     $
 
